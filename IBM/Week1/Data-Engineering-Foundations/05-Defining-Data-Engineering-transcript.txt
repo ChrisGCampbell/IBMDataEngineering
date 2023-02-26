@@ -1,0 +1,53 @@
+In this video, we will
+listen to several data professionals talk about
+how they define data engineering and how it
+differs from data analytics and data science. Data engineering is the tasks of designing, building,
+maintaining data infrastructures and platforms. These data
+infrastructures can include databases, Big Data
+repositories, as well as data pipelines for transforming and
+moving data between these systems. So, a Data Engineer is
+someone who performs these tasks of developing and optimizing
+data systems and make data available for analysis. Whereas a Data Analyst is
+someone who analyzes data in these systems to report and
+derive insights. And a Data Scientist takes this
+even further by performing deeper analysis on the data and
+developing predictive models to solve more complex data
+problems. As data engineers, we are kind of the plumbers of
+data. We make sure that the data is highly available. We make
+sure that the data is consistent. We make sure that
+the data is secure. And we make sure that the data is
+recoverable. We don't spend as much time playing with the data
+or analyzing the data, or actually using the data, as we
+do making sure it's ready for others to do those jobs. Alot of
+times, data science and data analytics will make use of the
+data that we that we store. It's also a scenario where
+we work closely with other data professionals to make sure that
+the data matches their needs and is available in a way that
+actually helps them. Data engineering is all about designing, maintaining, and
+optimizing systems that will help enterprises and companies
+make the most of their data. When we get into specifics, it's
+all about choosing the right databases, the right storage
+systems, the right cloud architectures or cloud
+platforms, so that when we put together all these things, the
+data flow inside an organization is seamless and data can be
+delivered to whoever needs it at whatever time, with minimal
+effort and as soon as possible. In an ideal organization with
+the best data engineering processes, anybody can get
+access to any data that he or she is authorized to in
+a split second of time. Now, if you talk about data
+analysts and data scientists, their work can be thought of as
+an upstream work. That is, after the job of a data engineer
+finishes and the data is made available, then data analysts
+and data scientists can make use of that data to work out their
+analysis and come up with their predictions. Data engineers
+extract and collect raw data from multiple sources, transform them and store them in table forms. While other scientists or
+analysts, they perform analysis on top of the data
+that's prepared by data engineering and try to engage business insights from
+those data. You can think of data engineering as a precursor to
+the data analysis and data science. Data engineers act as
+enablers and make the data projects of data analysts and
+data scientists materialize into reality. For example, they can
+assist the data analysts and data scientists with picking the
+right databases and tools, and by building the required data
+pipelines to help with their data needs, and build
+their reports, and perform statistical analysis.

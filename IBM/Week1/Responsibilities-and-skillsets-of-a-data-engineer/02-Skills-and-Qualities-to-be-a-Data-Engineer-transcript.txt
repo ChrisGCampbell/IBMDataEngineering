@@ -1,0 +1,86 @@
+In the first part of this video,
+we will listen to data professionals talk about some of
+the technical skills required to be a successful Data Engineer. Data engineering is a very fast
+evolving technology and obviously you need to love data,
+otherwise you shouldn't be a data engineer. And from coming
+to technical skills, it really depends on what data
+engineering needs are required to fill a particular job
+role. For example, if you are working in retail, you may need
+one skill set. For example, they may look for experience with relational
+databases, and Cassandra, or Google Big Table kind of architecture
+related knowledge because they try to build 365 by
+24x7 applications. And also build pipelines using Kafka
+Streams and WebSphere MQ to perform some back office
+processing of the transactional data. And then, if you're working
+in healthcare, you may need a different skill set. If you're
+working in social media like Twitter or Facebook, you would
+need different kinds of skill set. So data engineering is a
+very wide topic. Given the job role, requirements vary.
+Technical is actually the easy part because you can learn a new
+technology; you can figure out new things. It's important that
+you have the basic theory behind data structures and how to work
+with data. If you don't enjoy change, if you don't enjoy
+learning, data engineering is not the right place for you.
+There's a lot of change in any data field and you have to be
+willing to roll with that change. You need to have good
+networking skills about both LAN and then the VAN. And you need to be good at
+understanding different kind of storages, the local storage as
+well as the cloud storage. And you need to have a very good
+knowledge of operating systems. And then you should be an expert
+at databases, both RDBMS databases and the NoSQL databases. Programming knowledge
+is very, very helpful. Any language in a Java, C or Python
+would be a very great value add. And in today's data engineering
+landscape, automation is a very, very good skill to have.
+In terms of technical skills, a data engineer needs to work
+with one or more programming languages, operating systems,
+and have a knowledge of IT infrastructure and landscape.
+This includes computer architecture, cloud, virtual
+machines, containers, and different types of storage and
+how to use and work with them. And a data engineer needs to be
+very proficient at SQL and needs to have a working knowledge with
+one or more databases, both relational and NoSQL. And it's not needed to get
+started, but it's very useful to have knowledge and
+experience of the bigger data engineering ecosystem, which
+includes ETL, data pipelines, data warehouses, data lakes
+and other Big Data systems. Different companies have
+different requirements for data engineers. Even within
+the same company, the requirement, the skills
+required, for data engineers may change overtime as
+the thing goes. But in general, in my opinion,
+there are four essential technical skills for data engineers,
+They are SQL, and data modeling, ETL methodologies, and
+programming skills like Python. In the second part
+of this video we will listen to data
+professionals talk about some of the qualities and
+soft skills required to be a successful data engineer. So to become a data engineer and
+be successful at it, you need to enjoy problem solving and troubleshooting. You need to be
+good at teamwork, collaboration and communication. And it's good
+to be, you know, being good at logic and having an interest in
+coding is very useful. From a data engineer, from a non-
+technical perspective, we expect a data engineer to be a problem solver.
+And we want him or her to have very good communication skills as
+data engineer is constantly involved with multiple teams.
+So it helps if he's a good communicator. You should be very curious
+and you should be able to ask a lot of questions to the
+business users and technical users. And then use that knowledge
+from those answers to build robust data pipelines
+using reliable data sources and suitable data pipelines. My
+saying has always been whether working as a DBA or a data
+engineer, the best one is a detail oriented control-freak.
+And that's because there is a lot of detail involved in
+working with data. It's important to really be
+comfortable with the details, and get into the details, and make
+sure that you don't leave any of the boxes unchecked.
+Control-freak because my data environment. That's my baby.
+That's what I spend as much time with as my children
+sometimes. And so that's something where I need to be in
+control or aware of the choices that are being made there, and
+what tradeoffs those particular choices have. The most important
+skills are soft skills. You need to be able to interact with
+developers. You need to be able to defend your choices to
+management. You need to be able to advocate for the choices that
+you're making and the details of those choices, and why they are
+important and why things need to be done in a particular way. So
+those things and a work ethic and passion to learn are the
+most important things. Curiosity, good communication,
+and eagerness to learn are pretty critical for data engineers.
