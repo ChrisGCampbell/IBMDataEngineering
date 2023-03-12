@@ -1,0 +1,50 @@
+Welcome to Data fundamentals review. Today’s world is full of data. But how do we define data? Data is unorganized information, that is processed
+to make it meaningful. It can consist of Facts, observations, perceptions Numbers characters symbols Images Or a mix of any of these. Data can be categorized by the level and rigidity
+of its structure. Data can be structured, semi-structured or
+unstructured. Structured data can be represented in rows
+and columns, just like a table. It has a well-defined schema, and a rigid
+structure. These characteristics make relational databases,
+which store data in tables, ideal for structured data. Semi-structured data has some organizational
+properties, but not enough to be easily stored in the rows and columns required by a rigid,
+tabular schema. Instead, semi-structured data is organized
+into a hierarchy using tags and metadata. Unstructured data doesn’t have an identifiable
+structure; it doesn’t follow any specific format, sequence, semantics, or rules. It cannot be organized into tabular format
+for storage in a relational database. Unstructured data is often stored in NoSQL
+databases. There is a multitude of data sources available
+today. From existing data stored in databases, flat
+files, or XML data sets to data gathered from web scraping, data streams and feeds, to data
+collected from social platforms and Internet of Things devices with sensors. All of this data can be stored, processed,
+and made available for analysis, providing businesses with insights into their performance. Data can be held or transferred between systems
+in many different files formats. Common formats include: Delimited text files. In these files the data is stored in rows,
+with each variable separated by a specific character, like a comma or a tab. Delimited files include comma separated variable
+(CSV) and tab separated variable (TSV) files. Spreadsheets. In these files, the data is stored in rows
+and columns, just like a table. This makes the data easy to access and manipulate. You can use a spreadsheet to create CSV files. Language. Language files like Extensible Markup Language
+(XML) and JavaScript Object Notation (JSON) have set rules and structures for encoding
+data to be sent over the internet. XML is readable by both humans and machines,
+is platform independent, and is programming language independent, that is it can be read
+in any programming language. JSON is also programming language independent. It is a popular choice for sharing data of
+any size and type, including audio and video. It’s returned by many APIs and Web services. So, once you have gathered all your data,
+where should you store it? Structured and semi-structured data is often
+stored in databases; either relational databases like DB2 or non-relational databases like
+MongoDB. Each type of database is optimized for different
+types of operations. The type of data you need and the processes
+you want to apply to it will determine the type storage you choose. An Online Transaction Processing (OLTP) system
+is optimized for storing the high-volume of day-to-day operational data that many businesses
+rely on. OLTP systems are typically relational databases
+but can also be built on relational databases. An Online Analytical Processing (OLAP) system
+is optimized for conducting complex data analytics. OLAP systems include relational and non-relational
+databases, data warehouses, data lakes and other big data stores. Relational databases consist of structured
+data stored in related tables. The links between the tables are defined in
+a way that minimizes the duplication of data while still maintaining all the complex relationships
+required. Relational databases and their supporting
+systems are called Relational Database Management Systems, or RDBMS. Examples include IBM DB2, Microsoft SQL Server,
+Oracle, My SQL. Relational databases are primarily OLTP systems,
+used to support day-to-day business activities such as customer transactions, human resource
+activities, and workflows. They can also be used to perform data analysis,
+for example, data from a customer relationship management system can be used to make sales
+projections. In this video, you learned that: Data is information like facts, observations,
+perceptions, numbers, characters, and images that can be processed to become meaningful. Data can be structured, semi-structured, or
+unstructured. Different data sources offer different types
+of data, for example data from social media can be unstructured or semi-structured. Data can be stored in repositories like relational
+databases and non-relational databases, amongst many others. Data can be transferred in CSV, XML, and JSON
+files.
